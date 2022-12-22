@@ -1,0 +1,18 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	background: #7700AA;
+}
+
+#top {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+textarea {
+	background: white;
+	font: 12px Consolas, black
+}
